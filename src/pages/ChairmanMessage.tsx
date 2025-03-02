@@ -1,5 +1,5 @@
 import React from 'react';
-import mamunimage from '../images/mamun.jpg';
+import mamunimage from '../images/Mamun.jpg';
 import { motion } from 'framer-motion';
 import { Quote } from 'lucide-react';
 

@@ -1,5 +1,5 @@
-import mimmaimage from '../images/mimma.jpeg';
-import iftekharimage from '../images/iftekhar.jpg';
+import mimmaimage from '../images/Mimma.jpeg';
+import iftekharimage from '../images/Iftekhar.jpg';
 import sohelmahmudimage from '../images/Shohelmahmud.jpg';
 import ranaimage from '../images/shohelrana.jpg';
 import omarimage from '../images/omar.jpg';

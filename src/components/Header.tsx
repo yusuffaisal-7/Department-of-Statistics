@@ -1,5 +1,5 @@
 import React from 'react';
-import logoimage from '../images/logo.jpg';
+import logoimage from '../images/Logo.jpg';
 import { Menu, X, Facebook, Youtube } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
